@@ -8,7 +8,6 @@ As a person, I’m
     3. _a creative thinker_
 
 I’m passionate
-
 	- to apply my skills in real life
 	- to build scalable and complex systems
 	- to solve problems with proven ability to deliver high quality product
