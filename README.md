@@ -5,9 +5,9 @@ In the period of 2015-2021, I worked for organizations namely Cleartrip, IBM and
 
 As a person, I’m
 ```
-    1. _curious by nature, open to learn new things_
-    2. _a enthusiastic team player_
-    3. _a creative thinker_
+    _curious by nature, open to learn new things_
+    _a enthusiastic team player_
+    _a creative thinker_
 ```
 I’m passionate
 
