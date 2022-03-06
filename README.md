@@ -6,7 +6,7 @@
 **As a person, I’m
 ```
     	* curious by nature, open to learn new things
-    	* a enthusiastic team player
+    	* an enthusiastic team player
     	* a creative thinker
 ```
 
